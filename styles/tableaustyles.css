@@ -1,0 +1,52 @@
+.Topnav{
+    color:rgb(74, 84, 228);
+    text-align: right;
+}
+
+.active{
+    color: white;
+}
+
+#Tableauheader{
+    color: white;
+    border:dashed 3px rgb(74, 84, 228);
+}
+
+.footer{
+    border:dashed 3px rgb(74, 84, 228);
+    color: white;
+}
+.endlink{
+    color: aqua;
+}
+
+body{
+    background-image: url('https://cdn.wallpapersafari.com/15/99/CeohrR.jpg');
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 50px;
+    gap: 40px;
+}
+
+
+.grid-item {
+
+border: solid 2px rgb(74, 84, 228);
+text-align: center;
+border-radius: 25px;
+}
+
+.livegraphs{
+color:white
+}
+
+.text{
+    color: white
+}
+
+.top{
+    text-align: right;
+}

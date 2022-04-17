@@ -1,0 +1,60 @@
+h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: white;
+}
+
+.myName{
+    color: white;  
+}
+
+.post-subtitle{
+    font-size: medium;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    color: black 
+}
+
+.subheading{
+    color:white;
+    font-style: italic;
+}
+
+.homepagelink{
+    text-indent: 50px;
+    margin-left: 35px;
+    text-decoration: underline;   
+    color: dodgerblue;
+}
+
+.Aboutmelink{
+    margin-right: 35px;
+    text-decoration: underline;
+    color: dodgerblue
+}
+
+.post-heading{
+    columns: blue;
+}
+
+#resume{
+    text-decoration: underline;
+    margin-left: 45px;
+}
+
+.resumepart{
+    margin-left: 100px;
+}
+
+#Video{
+    margin-left: 45px;
+    text-decoration: underline;
+}
+
+.topanchor{
+   margin-left: 75;
+   color:crimson;
+}
+
+#Topnav{
+    text-decoration: line-through;
+}
